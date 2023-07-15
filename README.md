@@ -1,2 +1,2 @@
 # pythonPra
-practice for python
+This is practice for python
