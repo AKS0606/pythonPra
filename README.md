@@ -1,2 +1,4 @@
 # pythonPra
-This is practice for python
+- This is practice for python
+
+- added from application 
